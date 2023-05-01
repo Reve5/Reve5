@@ -1,5 +1,5 @@
 # About Me:
-👋 Hello, my name here is Reve5, and I am 14 years old. <br>I was born on 28.01.2008 in Germany, Chemnitz. 📍<br>👤 My nationality is Turkish, but I grew up in Germany. <br>Mainly, I program Discord bots in Python. 💻
+👋 Hello, my name here is Reve5, and I am 15 years old. <br>I was born on 28.01.2008 in Germany, Chemnitz. 📍<br>👤 My nationality is Turkish, but I grew up in Germany. <br>Mainly, I program Discord bots in Python. 💻
 
 # Socials:
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://reddit.com/user/ItsReve) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20748793)
